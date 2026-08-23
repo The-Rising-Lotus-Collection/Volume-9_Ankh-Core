@@ -1,0 +1,8 @@
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+
+Preamble
+This project and all associated internal topographies, multi-axis 12-inch isolation sleeves, compact 4-inch micro-pyramid dishes, continuous overhead magnetic suspension gantries, and universal puck interfaces for the Volume-9 Ankh Core (Crystalline Observation & Resonant Engine) are licensed under the CERN-OHL-S v2.0 framework.
+
+Distribution of this hardware or any derivative works incorporating this architecture requires full disclosure of the underlying design files under the same strongly reciprocal conditions (CERN-OHL-S-2.0).
+
+Copyright 2026 The-Rising-Lotus-Collection. All Rights Reserved.
